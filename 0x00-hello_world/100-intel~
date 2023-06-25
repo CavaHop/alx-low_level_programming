@@ -1,0 +1,12 @@
+#include<stdio.h>
+s
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+    printf(gcc -S -masm=intel $CFILE -o "${CFILE%.*}.s")
+    return (0);
+}
