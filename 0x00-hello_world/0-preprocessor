@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 $CFILE && ./a.out > c
+gcc -E $CFILE -oc
